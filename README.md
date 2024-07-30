@@ -54,7 +54,7 @@ where CPU_t represent the CPU index of day *t*; *normal* represent the normaliza
 
 ## Data
 
-The file temp-China-73-22.dta contains the Chinese average temperature from 1 January 1973 to 31 December 2022. We aggregate all the Chinese station temperatures as the Chinese average temperature. The original data obtained from [NCEI database](https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/) (including the global data) and you can choose a country to download its station list the [daily observation data](https://www.ncei.noaa.gov/maps/daily/) webpage of NCEI. 
+the rawdata ZIP file of climate policy uncertainty contains the original textual data of four newspaper from 2010 to 2022 (gmrb.dta, rmrb.dta, jjrb.dta and zqb.dta). The four cpu_*.dta files represent the four policy time series and the CPU.xlsx is the time seies of CPU indexes from 2010 to 2021.
 
 ## Code
 
