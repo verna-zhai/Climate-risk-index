@@ -1,5 +1,5 @@
 clear
-use "E:\1PHD\github\climate physical risk\rawdata\temp-China-73-22.dta" 
+use "E:\climate physical risk\rawdata\temp-China-73-22.dta" 
 egen mean_temp=mean(average_temp), by (year)
 drop DATE Country average_temp
 duplicates drop year mean_temp, force
