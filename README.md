@@ -58,4 +58,4 @@ the rawdata ZIP file of climate policy uncertainty contains the original textual
 
 ## Code
 
-You can use Stata to open the do file and process the rawdata to get the Standardized temperature. Specifically, we select 1973-1982 as the reference period $t_0$ to calculate the reference period.
+You can open the CPU.R by R studio to calculate the climate policy uncertainty indexes. The line 24, 26 and 28 of code represent the glossary of climate, policy and uncertainty, respectively. To get the CPU indexes, you can repeat the line 1 to line 60 for each newspaper textual data and get each newspaper's policy series. after that, line 63 to line 96 aggregate the four time series and calculate the CPU indexes time series.
