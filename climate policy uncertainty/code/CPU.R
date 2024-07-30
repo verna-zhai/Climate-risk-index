@@ -5,7 +5,7 @@ library(readr)
 library(tidyverse)
 library(writexl)
 library(haven)
-setwd("E:/1PHD/github/climate policy uncertainty")
+setwd("E:/climate policy uncertainty")
 df<-read_dta('./rawdata/zqb.dta')
 
 #pre-process
