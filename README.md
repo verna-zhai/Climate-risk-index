@@ -4,7 +4,7 @@ This project uses  **R** and **Stata** construct two climate risk indexes as pro
 
 # Files
 
-The folder climate physical risk contains code and rawdata.  Given that the rawdata zip file of climate policy uncertainty is over 1GB, so we didn't upload directly and you can download in this [OneDrive link](https://1drv.ms/u/c/75642e0591651e23/EZ_PBbjqfvdBvbQmsq-ZA-oBoDptDXclNcmDuoyniCpuNw).
+The folder climate physical risk contains code and rawdata.  Given that the rawdata ZIP file of climate policy uncertainty is over 1GB, so we didn't upload directly and you can download in this [OneDrive link](https://1drv.ms/u/c/75642e0591651e23/EZ_PBbjqfvdBvbQmsq-ZA-oBoDptDXclNcmDuoyniCpuNw).
 
 
 # Climate physical risk
