@@ -10,9 +10,6 @@ The folder climate physical risk contains code and rawdata.  Given that the rawd
 # Climate physical risk
 
 
-## Data
-
-The file temp-China-73-22.dta contains the Chinese average temperature from 1 January 1973 to 31 December 2022. The original data obtained from [NCEI database](https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/) (including the global data) and you can choose a country to download its station list the [daily observation data](https://www.ncei.noaa.gov/maps/daily/) webpage of NCEI. 
 
 ## Code
 
